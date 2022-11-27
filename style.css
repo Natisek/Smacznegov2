@@ -1,0 +1,35 @@
+body{
+    padding: 10px;
+    
+}
+
+.avatar{
+    width: 150px;
+    background: pink;
+    border: 5px dashed crimson;
+    border-radius: 30px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: pink;
+    border-radius: 15px;
+    color: crimson;
+    text-shadow: 2px 1px brown;
+    border-top: 5px solid brown;
+    border-bottom: 5px solid brown;
+    border-right: 5px solid brown;
+    border-left: 6px dashed crimson;
+    box-shadow: 10px 10px #5b2042;
+
+
+}
+.italic{
+    font-style: italic;
+}
